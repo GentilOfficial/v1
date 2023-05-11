@@ -15,7 +15,6 @@ A quick look at the top-level files and directories you'll see in this project.
     .
     ├── public
     ├── src
-    ├── .gitignore
     ├── package-lock.json
     ├── package.json
     ├── README.md
