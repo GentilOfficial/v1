@@ -16,8 +16,8 @@ A quick look at the top-level files and directories you'll see in this project.
     ├── public
     ├── src
     ├── .gitignore
-    ├── package.json
     ├── package-lock.json
+    ├── package.json
     ├── README.md
     └── tailwind.config.js
 
@@ -27,9 +27,9 @@ A quick look at the top-level files and directories you'll see in this project.
 
 3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
 
-4. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
+4. **`package-lock.json`**: This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project.
 
-5. **`package-lock.json`**: This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project.
+5. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
 6. **`README.md`**: A text file containing useful reference information about your project.
 
