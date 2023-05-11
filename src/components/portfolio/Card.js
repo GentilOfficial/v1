@@ -2,8 +2,8 @@ import {ReactComponent as Link} from "./link.svg";
 
 const Card = ({children, image, title, gitLink, mocLink}) => {
   return (
-    <div className="max-w-sm rounded-lg overflow-hidden shadow-md bg-white border border-neutral-200 dark:border-neutral-600 dark:bg-neutral-800">
-      <img className="w-full" src={image} width="1920" height="1080" alt="Project"></img>
+    <div className="max-w-sm rounded-lg overflow-hidden my-drop-shadow bg-white border border-neutral-200 dark:border-neutral-600 dark:bg-neutral-800">
+      <img className="w-full border-b border-neutral-200 dark:border-neutral-700" src={image} width="1920" height="1080" alt="Project"></img>
         <div className="px-6 py-4">
             <div className="font-bold text-xl mb-2 dark:text-white">{title}</div>
         </div>
