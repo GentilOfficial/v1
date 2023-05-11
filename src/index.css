@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+*::-webkit-scrollbar {
+    height: 0;
+    width: 0;
+}
+
+*::selection {
+    background: #101010;
+    color: #ffffff;
+}
+
+.my-drop-shadow {
+    filter: drop-shadow(5px 5px 3px rgb(10 10 10 / 0.3));
+}
