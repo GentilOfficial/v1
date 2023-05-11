@@ -15,9 +15,9 @@ A quick look at the top-level files and directories you'll see in this project.
     .
     ├── public
     ├── src
+    ├── README.md
     ├── package-lock.json
     ├── package.json
-    ├── README.md
     └── tailwind.config.js
 
 1.  **`/public`**: This directory will contain the HTML file so you can tweak it, for example, to set the page title.
