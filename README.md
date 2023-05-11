@@ -2,7 +2,7 @@
   <img alt="FG logo" src="https://www.fgentili.it/android-chrome-512x512.png" width="100" />
 </p>
 <h1 align="center">
-  fgentili.it
+  My Portfolio
 </h1>
 <p align="center">
   Federico Gentili's Portfolio.
