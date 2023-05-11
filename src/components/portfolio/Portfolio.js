@@ -16,13 +16,13 @@ const Portfolio = forwardRef((props, ref) => {
             <hr className="h-px my-5 bg-neutral-200 dark:bg-neutral-700 border-0 w-4/5 mx-auto" />
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 items-center justify-center overflow-hidden">
               <Fade bottom>
-                <div className="flex items-center justify-center md:justify-end">
+                <div className="flex items-center justify-center md:justify-end p-3">
                   <Card title="My Portfolio" image={PortfolioScreen} gitLink="https://github.com/GentilOfficial/My-Portfolio" >
                     <Badge name="React" />
                     <Badge name="Tailwind" />
                   </Card>
                 </div>
-                <div className="flex items-center justify-center md:justify-start">
+                <div className="flex items-center justify-center md:justify-start p-3">
                   <Card title="Wake on LAN Bot" image={TelegramScreen} gitLink="https://github.com/GentilOfficial/Wake-on-LAN-Bot" >
                     <Badge name="Node.js" />
                     <Badge name="Telegram" />
