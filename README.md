@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="FG logo" src="https://www.fgentili.it/android-chrome-512x512.png" width="100" />
+  <img alt="FG logo" src="https://raw.githubusercontent.com/GentilOfficial/My-Portfolio/main/public/android-chrome-512x512.png" width="100" />
 </p>
 <h1 align="center">
   My Portfolio
