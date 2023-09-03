@@ -2,10 +2,10 @@
   <img alt="FG logo" src="https://raw.githubusercontent.com/GentilOfficial/My-Portfolio/main/public/android-chrome-512x512.png" width="100" />
 </p>
 <h1 align="center">
-  My Portfolio
+  www.fgentili.it - v1
 </h1>
 <p align="center">
-  Federico Gentili's Portfolio.
+  Federico Gentili's Portfolio
 </p>
 
 ## 🔍 What's inside?
